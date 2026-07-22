@@ -1,10 +1,10 @@
 /*
-  LeetCode Submission ID: 2076459074
-  Date: 22/07/2026, 06:50:06
+  LeetCode Submission ID: 2076459533
+  Date: 22/07/2026, 06:51:21
   Runtime: 3 ms
   Memory: 18.1 MB
   Difficulty: Easy
-  Problem Link: https://leetcode.com/problems/shift-2d-grid/submissions/2076459074/?envType=daily-question&envId=2026-07-20
+  Problem Link: https://leetcode.com/problems/shift-2d-grid/submissions/2076459533/?envType=daily-question&envId=2026-07-20
 */
 
 class Solution {
